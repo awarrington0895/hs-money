@@ -60,4 +60,5 @@ test-suite money-test
   build-depends:
       base >=4.7 && <5
     , money
+    , HUnit
   default-language: Haskell2010
