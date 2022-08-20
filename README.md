@@ -1,1 +1,1 @@
-# hs-money
+# money
